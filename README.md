@@ -1,5 +1,6 @@
 # Block the Blob
 
+![Logo](/data/title1.png)
 A game made by:
 
 - Jason Brunelle: Gameplay & AI & Animation
@@ -13,7 +14,7 @@ A game made by:
 
 Thank You for playing!
 
-##WELCOME HEROES!
+## WELCOME HEROES!
 
 No? Not a hero? No problem, we aren't picky! We are under attack by blobs! Despite their cute appearances, they are destructive. Please, help us!"
 
@@ -23,7 +24,7 @@ Outnumber and outsmart the blobs by building walls, the more walls you build, th
 
 (Don't worry! It's simple, but somehow we just can't do it!)
 
-##Installation
+## Installation
 
 > Download the [processing flexible software sketchbook](https://processing.org/) for your operating system.
 
